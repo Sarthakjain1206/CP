@@ -1,0 +1,1 @@
+{"name":"Local: PrimeGame","url":"c:\\Users\\ASUS\\Desktop\\practice\\CP\\CodeChef\\FebChallenge\\PrimeGame.py","tests":[{"id":1612646946079,"input":"3\n1 2\n3 1\n2021 42","output":"Chef\nDivyam\nDivyam"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ASUS\\Desktop\\practice\\CP\\CodeChef\\FebChallenge\\PrimeGame.py","group":"local","local":true}
